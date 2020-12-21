@@ -2,8 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+	
+	Wayne Lin wayne2347@gmail.com	@wayne2743
 
 # THANKS
 
